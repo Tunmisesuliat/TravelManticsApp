@@ -1,0 +1,2 @@
+# TravelManticsApp
+For travel deals
